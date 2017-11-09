@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\exploded-aar\org.xwalk\xwalk_core_library\23.53.589.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="834071525d6d2707eb4c7f76b728d8cd14b17ae1">
+        <dex dex="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\pre-dexed\debug\org.xwalk-xwalk_core_library-23.53.589.4_ba6d1c24b43f965c9b258c4854f80e09fed1940e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_15d2181a3b11a929ff8731284291b553e7d0f2dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_7ebc70ec3006d26bb2219b26a7eb413b60ba15f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_ebe20c385d60a67eaa87d4ea8edf07f86475d936.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_e3fcc4a3a79b486b56072908c6475554cbf4f406.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\anzhuang\studio\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_38c35ac38885a436df09c47cec8757d5f684313d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_ae7c3bce1a5af8de47a3712b5a6e72b7e18b30f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrator\Desktop\temp\xWalkAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_bdd5f70d5b8a03e004faacf118f87c4e26c3cf71.jar" />
+    </item>
+
+</items>
